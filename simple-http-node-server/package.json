@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "checkpoint 3",
+  "main": "node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simple-http-node-server"
+  },
+  "keywords": [
+    "checkpoint",
+    "3"
+  ],
+  "author": "Kat Reysen",
+  "license": "ISC"
+}
